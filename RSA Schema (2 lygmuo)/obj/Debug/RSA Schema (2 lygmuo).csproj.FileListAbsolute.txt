@@ -1,0 +1,10 @@
+C:\Users\domin\source\repos\RSA Schema (2 lygmuo)\RSA Schema (2 lygmuo)\bin\Debug\RSA Schema (2 lygmuo).exe.config
+C:\Users\domin\source\repos\RSA Schema (2 lygmuo)\RSA Schema (2 lygmuo)\bin\Debug\RSA Schema (2 lygmuo).exe
+C:\Users\domin\source\repos\RSA Schema (2 lygmuo)\RSA Schema (2 lygmuo)\bin\Debug\RSA Schema (2 lygmuo).pdb
+C:\Users\domin\source\repos\RSA Schema (2 lygmuo)\RSA Schema (2 lygmuo)\obj\Debug\RSA Schema (2 lygmuo).csprojAssemblyReference.cache
+C:\Users\domin\source\repos\RSA Schema (2 lygmuo)\RSA Schema (2 lygmuo)\obj\Debug\RSA_Schema__2_lygmuo_.Form1.resources
+C:\Users\domin\source\repos\RSA Schema (2 lygmuo)\RSA Schema (2 lygmuo)\obj\Debug\RSA_Schema__2_lygmuo_.Properties.Resources.resources
+C:\Users\domin\source\repos\RSA Schema (2 lygmuo)\RSA Schema (2 lygmuo)\obj\Debug\RSA Schema (2 lygmuo).csproj.GenerateResource.cache
+C:\Users\domin\source\repos\RSA Schema (2 lygmuo)\RSA Schema (2 lygmuo)\obj\Debug\RSA Schema (2 lygmuo).csproj.CoreCompileInputs.cache
+C:\Users\domin\source\repos\RSA Schema (2 lygmuo)\RSA Schema (2 lygmuo)\obj\Debug\RSA Schema (2 lygmuo).exe
+C:\Users\domin\source\repos\RSA Schema (2 lygmuo)\RSA Schema (2 lygmuo)\obj\Debug\RSA Schema (2 lygmuo).pdb
